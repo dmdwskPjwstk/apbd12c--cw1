@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("HellO ");
+Console.WriteLine("HellO mod2");
